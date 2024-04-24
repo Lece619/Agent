@@ -1,4 +1,4 @@
-package com.vista.agent.Agent.socket;
+package com.vista.agent.agentApp.socket;
 
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Component;
